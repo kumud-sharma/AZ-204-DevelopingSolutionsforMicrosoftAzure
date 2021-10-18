@@ -25,7 +25,7 @@
 
 1.  In the **Register an application** section, perform the following actions:
 
-    1.  In the **Name** text box, enter **graphapp**.
+    1.  In the **Name** text box, enter **webappoidc**.
 
     1.  In the **Supported account types** list, select the **Accounts in this organizational directory only (Default Directory only - Single tenant)** check box.
 
@@ -37,7 +37,7 @@
 
 #### Task 3: Enable the default client type
 
-1.  In the **graphapp** application registration blade, select **Authentication** in the **Manage** section.
+1.  In the **webappoidc** application registration blade, select **Authentication** in the **Manage** section.
 
 1.  In the **Authentication** section, perform the following actions:
 
@@ -47,7 +47,7 @@
 
 #### Task 4: Record unique identifiers
 
-1.  On the **graphapp** application registration blade, select **Overview**.
+1.  On the **webappoidc** application registration blade, select **Overview**.
 
 1.  In the **Overview** section, find and record the value of the **Application (client) ID** text box. You'll use this value later in the lab.
 
