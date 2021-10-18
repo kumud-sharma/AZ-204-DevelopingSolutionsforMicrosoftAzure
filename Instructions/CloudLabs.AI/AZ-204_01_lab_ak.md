@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Building a web application on Azure platform as a service offerings'
-    az204Module: 'Module 01: Creating Azure App Service Web Apps'
-    az020Module: 'Module 01: Creating Azure App Service Web Apps'
-    type: 'Answer Key'
----
-
 # Lab: Building a web application on Azure platform as a service offerings
 ### Exercise 1: Build a back-end API by using Azure Storage and the Web Apps feature of Azure App Service
 
