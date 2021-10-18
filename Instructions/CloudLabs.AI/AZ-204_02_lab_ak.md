@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Implement task processing logic by using Azure Functions'
-    az204Module: 'Module 02: Implement Azure Functions'
-    az020Module: 'Module 02: Implement Azure Functions'
-    type: 'Answer Key'
----
-
 # Lab: Implement task processing logic by using Azure Functions
 ### Exercise 1: Create Azure resources
 
@@ -99,7 +91,7 @@ lab:
 
     1.  In the **Storage account** drop-down list, select the **funcstor*[deployId]*** storage account that you created earlier in this lab.
 
-    1.  In the **Operating System** section, select **Windows**.
+    1.  In the **Operating System** section, select **Linux**.
 
     1.  In the **Plan type** drop-down list, select the **Consumption** option.
 
