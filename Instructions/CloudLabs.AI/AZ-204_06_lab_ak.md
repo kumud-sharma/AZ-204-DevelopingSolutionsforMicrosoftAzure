@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Authenticating to and querying Microsoft Graph by using MSAL and .NET SDKs'
-    az204Module: 'Module 06: Implement user authentication and authorization'
-    az020Module: 'Module 06: Implement user authentication and authorization'
-    type: 'Answer Key'
----
-
 # Lab: Authenticating to and querying Microsoft Graph by using MSAL and .NET SDKs
 ### Exercise 1: Create an Azure Active Directory (Azure AD) application registration
 
