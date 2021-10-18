@@ -1,10 +1,3 @@
----
-lab:
-    title: 'Lab: Deploying compute workloads by using images and containers'
-    az204Module: 'Module 05: Implement IaaS solutions'
-    type: 'Answer Key'
----
-
 # Lab: Deploying compute workloads by using images and containers
 ### Exercise 1: Create a VM by using the Azure Command-Line Interface (CLI)
 
