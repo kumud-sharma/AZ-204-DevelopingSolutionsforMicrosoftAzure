@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Constructing a polyglot data solutio'
-    az204Module: 'Module 04: Develop solutions that use Cosmos DB storage'
-    az020Module: 'Module 04: Develop solutions that use Cosmos DB storage'
-    type: 'Answer Key'
----
-
 # Lab: Constructing a polyglot data solution
 ### Exercise 1: Creating database resources in Azure
 
