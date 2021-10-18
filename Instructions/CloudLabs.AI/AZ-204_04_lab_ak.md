@@ -1,4 +1,4 @@
-# Lab: Constructing a polyglot data solution
+# Lab: Construct a polyglot data solution
 ### Exercise 1: Creating database resources in Azure
 
 #### Task 1: Open the Azure portal
