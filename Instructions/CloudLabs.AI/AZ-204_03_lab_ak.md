@@ -28,23 +28,20 @@
     > **Note**: Each tab represents a step in the workflow to create a new storage account. You can select **Review + Create** at any time to skip the remaining tabs.
 
 1.  On the **Basics** tab, perform the following actions:
+
+    | Setting                           | Action                                                       |
+   | --------------------------------- | ------------------------------------------------------------ |
+   | **Subscription** drop-down list   | Retain the default value.                                    |
+   | **Resource group** section        | Select **Create new**, enter **StorageMedia-[deployId]**, and then select **OK**. |
+   | **Storage account name** text box | Enter **mediastor*[deployId]**_.                             |
+   | **Region** drop-down list         | Select **(US) East US**.                                     |
+   | **Performance** section            | select **Standard**                                          |
+   | **Account kind**                   |   **StorageV2 (general purpose v2)**                        |
+   | **Redundancy** drop-down list     | select **Locally-redundant storage (LRS)**.                  |
+    |**Access tier**                    |**Hot**|
     
-    1.  Leave the **Subscription** text box set to its default value.
-
-    1.  In the **Resource group** section, use existing, enter **StorageMedia-[deployId]**, and then select **OK**.
-
-    1.  In the **Storage account name** text box, enter **mediastor*[deployId]***.
-
-    1.  In the **Location** drop-down list, select the **(US) East US** region.
-
-    1.  In the **Performance** section, select **Standard**.
-
-    1.  In the **Account kind** drop-down list, select **StorageV2 (general purpose v2)**.
-
-    1.  In the **Replication** drop-down list, select **Read-access geo-redundant storage (RA-GRS)**.
-
-    1.  In the **Access tier** section, ensure that **Hot** is selected.
-
+   The following screenshot displays the configured settings on the **Create a storage account blade**.
+    
     1.  Select **Review + Create**.
 
 1.  On the **Review + Create** tab, review the options that you selected during the previous steps.
