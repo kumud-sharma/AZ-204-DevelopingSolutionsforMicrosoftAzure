@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Access resource secrets more securely across services'
-    az204Module: 'Module 07: Implement secure cloud solutions'
-    az020Module: 'Module 07: Implement secure cloud solutions'
-    type: 'Answer Key'
----
-
 # Lab: Access resource secrets more securely across services
 ### Exercise 1: Create Azure resources
 
@@ -149,7 +141,7 @@ lab:
 
     1.  In the **Storage account** drop-down list, select the **securestor*[deployId]*** storage account that you created earlier in this lab.
 
-    1.  In the **Operating System** section, select **Windows**.
+    1.  In the **Operating System** section, select **Linux**.
 
     1.  In the **Plan type** drop-down list, select the **Consumption (Serverless)** option.
 
