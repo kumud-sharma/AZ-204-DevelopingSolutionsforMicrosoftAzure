@@ -159,7 +159,7 @@
     
     1.  Leave the **Deployment slot setting** text box set to its default value, and then select **OK** to close the pop-up dialog and return to the **Configuration** section.
     
-    1.  Select **Save** from the blade to persist your settings.
+    1.  Select **Save** from the blade to persist your settings and then select **Continue**.
   
     Wait for your application settings to persist before you move forward with the lab.
 
