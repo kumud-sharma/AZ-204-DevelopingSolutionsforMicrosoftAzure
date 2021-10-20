@@ -1,10 +1,3 @@
----
-lab:
-    title: 'Lab: Enhancing a web application by using the Azure Content Delivery Network'
-    az204Module: 'Module 13: Integrate caching and content delivery within solutions'
-    type: 'Answer Key'
----
-
 # Lab: Enhancing a web application by using the Azure Content Delivery Network
 ### Exercise 1: Create Azure resources
 
