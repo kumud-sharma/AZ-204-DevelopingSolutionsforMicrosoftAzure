@@ -21,7 +21,7 @@
 
 1.  From the **Storage accounts** blade, get your list of storage account instances.
 
-1.  From the **Storage accounts** blade, select **Add**.
+1.  From the **Storage accounts** blade, select **Create**.
 
 1.  From the **Create storage account** blade, observe the tabs from the blade, such as **Basics**, **Tags**, and **Review + Create**.
 
@@ -69,7 +69,7 @@
 
 1.  From the **ManagedPlatform-[deployId]** blade, select the **imgstor*[deployId]*** storage account that you created earlier in this lab.
 
-1.  From the **Storage Account** blade, in the **Blob service** section, select the **Containers** link.
+1.  From the **Storage Account** blade, in the **Data storage** section, select the **Containers** link.
 
 1.  In the **Containers** section, select **+ Container**.
 
