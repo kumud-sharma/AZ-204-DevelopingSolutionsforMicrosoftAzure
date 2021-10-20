@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Monitoring services that are deployed to Azure'
-    az204Module: 'Module 12: Monitor and optimize Azure solutions'
-    az020Module: 'Module 11: Monitor and optimize Azure solutions'
-    type: 'Answer Key'
----
-
 # Lab: Monitoring services that are deployed to Azure
 ### Exercise 1: Create and configure Azure resources
 
