@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Creating a multi-tier solution by using services in Azure'
-    az204Module: 'Module 08: Implement API Management'
-    az020Module: 'Module 08: Implement API Management'
-    type: 'Answer Key'
----
-
 # Lab: Creating a multi-tier solution by using services in Azure
 ### Exercise 1: Creating an Azure App Service resource by using a Docker container image
 
