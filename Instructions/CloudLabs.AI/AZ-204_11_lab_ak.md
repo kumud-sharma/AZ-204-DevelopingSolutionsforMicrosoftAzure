@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Asynchronously processing messages by using Azure Storage Queues'
-    az204Module: 'Module 11: Develop message-based solutions'
-    az020Module: 'Module 10: Develop message-based solutions'
-    type: 'Answer Key'
----
-
 # Lab: Asynchronously processing messages by using Azure Storage Queues
 ### Exercise 1: Create Azure resources
 
