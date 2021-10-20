@@ -55,7 +55,7 @@
 
 1.	Select the **Go to resource** button from the **Deployment** blade to go to the newly created storage account.
 
-1.	From the **Storage account** blade, find the **Settings** section, and then select **Access keys**.
+1.	From the **Storage account** blade, find the **Security + networking** section, and then select **Access keys**.
 
 1.	From the **Access keys** blade, select any one of the keys, and then record the value of either of the **Connection string** boxes. You'll use this value later in this lab.
 
