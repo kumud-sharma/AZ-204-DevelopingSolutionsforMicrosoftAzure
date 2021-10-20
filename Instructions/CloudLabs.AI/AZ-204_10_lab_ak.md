@@ -1,11 +1,3 @@
----
-lab:
-    title: 'Lab: Publishing and subscribing to Event Grid events'
-    az204Module: 'Module 10: Develop event-based solutions'
-    az020Module: 'Module 09: Develop event-based solutions'
-    type: 'Answer Key'
----
-    
 # Lab: Publishing and subscribing to Event Grid events
 ### Exercise 1: Create Azure resources
 
