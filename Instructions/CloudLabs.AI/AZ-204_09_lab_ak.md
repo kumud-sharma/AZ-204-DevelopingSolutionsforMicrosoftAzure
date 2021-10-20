@@ -1,10 +1,3 @@
----
-lab:
-    title: 'Lab: Automate business processes with Logic Apps'
-    az204Module: 'Module 09: Develop App Service Logic Apps'
-    type: 'Answer Key'
----
-    
 # Lab: Automate business processes with Logic Apps
 ### Exercise 1: Create Azure resources
 
